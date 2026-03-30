@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nilton</h1>
 
-<!--
-**nilton-nhanteme/nilton-nhanteme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Full-Stack Software Developer, focused on backend systems, scalable APIs and mobile applications.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="end">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=niltonmatias/niltonmatias" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Software Developer
+🌱 Learning through real-world projects  
+
+- 📍 Based in Maputo, Mozambique  
+- 📧 Contact me at: [nnhanteme@gmail.com](mailto:nnhanteme@gmail.com)
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://wa.me/258877740104" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nilton-matias?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+</p>
