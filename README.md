@@ -28,31 +28,9 @@
 
 ## I Code with
 
-<table border="0">
-<tr>
-<td width="33%" valign="top">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,typescript,javascript,nodejs,nestjs,laravel,java,postgres,mysql,docker,git" />
+</p>
 
-<h3>📱 Frontend & Mobile</h3>
-
-<img src="https://skillicons.dev/icons?i=react,angular,flutter,ts,js,dart" />
-<img src="https://cdn.simpleicons.org/ionic/3880FF" width="48" height="48" />
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>⚙️ Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,java" />
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🗄️ Database & Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,linux" />
-
-</td>
-</tr>
-</table>
+## ✨ See You Around
+Thanks for stopping by. Happy coding! 💻
